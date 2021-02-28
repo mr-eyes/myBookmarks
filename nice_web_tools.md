@@ -5,3 +5,5 @@
 - Github online MD editor [prose.io](https://prose.io)
 
 - Github repo to vscode workspace [gitpod](https://gitpod.io)
+
+- PDF swiss army knife [i2pdf](https://www.i2pdf.com/)
